@@ -14,12 +14,10 @@ Install:
 npm install
 ```
 
+Run your mongo DB.
+
 Run the app :
 ```
-run your mongo DB.
-
-Then type this line
-
 node server.js
 ```
 
